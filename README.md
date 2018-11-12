@@ -1,7 +1,7 @@
 # Web_API_NET
 Curso Concluido - Criando serviços RESTful em .NET
 
-# Adicione a estensao postman no na navegador chrome para testar os métodos desta API:
+# Adicione a estensao postman no navegador chrome para testar os métodos desta API:
   
   GET: https://noteswebapi.azurewebsites.net/api/Notes/
   
