@@ -1,4 +1,4 @@
-# Web_API_NET
+# Web_API_NET - acessivel pelas urls abaixo:
 Curso Concluido - Criando serviços RESTful em .NET
 
 # Adicione a estensao postman no navegador chrome para testar os métodos desta API:
