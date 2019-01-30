@@ -5,4 +5,4 @@ Curso Concluido - Criando serviços RESTful em .NET
   
   PUT e DELETE: https://noteswebapi.azurewebsites.net/api/Notes/{id}
 
-# Testes feitos usando a extensao postman no navegador chrome.
+Testes feitos usando o postman, uma extensao do navegador chrome.
